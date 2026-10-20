@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+  <rect width="800" height="1000" fill="#E7DDCD"/>
+  <text x="50" y="66" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="2.4" fill="#6B655B">PORTRAIT / 2026</text>
+  <path d="M692 152h42M713 131v42" stroke="#C4562F" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="400" cy="390" r="252" fill="#7F876B"/>
+  <path d="M95 1000c8-190 120-315 305-315s297 125 305 315z" fill="#C4562F"/>
+  <path d="M338 700c2-44 28-62 62-62s60 18 62 62z" fill="#191713"/>
+  <rect x="348" y="542" width="104" height="170" rx="48" fill="#D8A17C"/>
+  <ellipse cx="400" cy="430" rx="150" ry="178" fill="#D8A17C"/>
+  <circle cx="252" cy="448" r="25" fill="#D8A17C"/>
+  <circle cx="548" cy="448" r="25" fill="#D8A17C"/>
+
+  <path d="M248 430c-8-140 62-228 152-228 94 0 160 88 152 228-18-54-44-88-92-100-50-13-93-4-132 19-38 22-62 43-80 81z" fill="#2A241E"/>
+  <path d="M267 360c8-60 46-99 96-113" stroke="#3B332B" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <path d="M310 390q35-15 70-3" stroke="#2A241E" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M420 387q35-12 70 3" stroke="#2A241E" stroke-width="5" stroke-linecap="round" fill="none"/>
+
+  <rect x="305" y="392" width="82" height="54" rx="16" fill="#F2E7D8" fill-opacity="0.12" stroke="#191713" stroke-width="5"/>
+  <rect x="413" y="392" width="82" height="54" rx="16" fill="#F2E7D8" fill-opacity="0.12" stroke="#191713" stroke-width="5"/>
+  <path d="M387 414h26M273 414h32M495 414h32" stroke="#191713" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="346" cy="421" r="4.5" fill="#191713"/>
+  <circle cx="454" cy="421" r="4.5" fill="#191713"/>
+
+  <path d="M400 438v38c0 7 6 10 12 10" stroke="#A96F4C" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M365 512q35 20 70 0" stroke="#191713" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <circle cx="252" cy="476" r="8" fill="#D9A441"/>
+  <circle cx="548" cy="476" r="8" fill="#D9A441"/>
+
+  <path d="M160 930c70-53 155-76 240-76s170 23 240 76" stroke="#D97450" stroke-width="2" opacity="0.6" fill="none"/>
+  <path d="M128 973c85-52 178-73 272-73s187 21 272 73" stroke="#D97450" stroke-width="2" opacity="0.4" fill="none"/>
+
+  <rect x="0" y="930" width="800" height="70" fill="#E7DDCD"/>
+  <line x1="0" y1="930" x2="800" y2="930" stroke="#191713" stroke-width="1.5"/>
+  <text x="50" y="971" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="2.4" fill="#191713">JORDAN ELLIS — DESIGNER &amp; DEVELOPER</text>
+  <text x="750" y="971" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10" letter-spacing="2.4" fill="#191713">PORTLAND, OR</text>
+</svg>

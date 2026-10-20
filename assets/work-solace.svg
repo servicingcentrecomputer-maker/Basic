@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" width="800" height="520">
+  <rect width="800" height="520" fill="#CDD3C2"/>
+  <circle cx="86" cy="64" r="88" fill="#7F876B" opacity="0.5"/>
+  <circle cx="738" cy="468" r="110" fill="#C4562F" opacity="0.22"/>
+
+  <rect x="48" y="52" width="704" height="432" rx="16" fill="#B9C0AC" opacity="0.7"/>
+  <rect x="48" y="44" width="704" height="432" rx="16" fill="#FBF8F1"/>
+  <path d="M48 60a16 16 0 0 1 16-16h672a16 16 0 0 1 16 16v22H48z" fill="#F0EEE4"/>
+  <circle cx="70" cy="63" r="4" fill="#C4562F"/>
+  <circle cx="85" cy="63" r="4" fill="#D8D4C5"/>
+  <circle cx="100" cy="63" r="4" fill="#D8D4C5"/>
+  <rect x="122" y="53" width="160" height="20" rx="10" fill="#E7E4D7"/>
+  <text x="136" y="67" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" fill="#6B655B">solacestudio.com</text>
+  <text x="555" y="67" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.4" fill="#6B655B">CLASSES</text>
+  <text x="620" y="67" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.4" fill="#6B655B">TEACHERS</text>
+  <text x="700" y="67" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.4" fill="#191713">BOOK NOW</text>
+
+  <text x="88" y="137" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8.5" letter-spacing="2" fill="#5F6B5A">SOLACE — MOVEMENT STUDIO</text>
+
+  <text x="86" y="195" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="-1.5" fill="#2C3327">Room to move.</text>
+  <text x="86" y="237" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="-1.5" fill="#2C3327">Space to breathe.</text>
+
+  <text x="88" y="269" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B655B">Slow movement, strong practice.</text>
+  <text x="88" y="285" font-family="'Helvetica Neue', Arial, sans-serif" font-size="10.5" fill="#6B655B">A small studio with a wide view.</text>
+
+  <rect x="88" y="308" width="112" height="34" rx="17" fill="#C4562F"/>
+  <text x="144" y="329" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9.5" fill="#FFFDF9">View classes</text>
+
+  <rect x="430" y="112" width="282" height="318" rx="14" fill="#7F876B"/>
+  <circle cx="666" cy="150" r="26" fill="#E7DDCD"/>
+  <text x="456" y="148" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="2" fill="#EFF0E6">THIS WEEK</text>
+
+  <line x1="456" y1="180" x2="686" y2="180" stroke="#A7AE96" stroke-width="1"/>
+  <text x="456" y="208" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.2" fill="#E5E8DB">MON</text>
+  <text x="500" y="212" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#FBF8F1">Slow Flow</text>
+  <text x="686" y="208" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#E5E8DB">7:30 AM</text>
+
+  <line x1="456" y1="232" x2="686" y2="232" stroke="#A7AE96" stroke-width="1"/>
+  <text x="456" y="260" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.2" fill="#E5E8DB">WED</text>
+  <text x="500" y="264" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#FBF8F1">Deep Stretch</text>
+  <text x="686" y="260" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#E5E8DB">6:00 PM</text>
+
+  <line x1="456" y1="284" x2="686" y2="284" stroke="#A7AE96" stroke-width="1"/>
+  <text x="456" y="312" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" letter-spacing="1.2" fill="#E5E8DB">SAT</text>
+  <text x="500" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#FBF8F1">Open Practice</text>
+  <text x="686" y="312" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8" fill="#E5E8DB">9:00 AM</text>
+
+  <rect x="456" y="352" width="126" height="30" rx="15" fill="#E7DDCD"/>
+  <text x="519" y="371" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="8.5" fill="#2C3327">Reserve a mat</text>
+  <text x="686" y="371" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="7.5" letter-spacing="1.2" fill="#E5E8DB">NEW STUDENTS WELCOME</text>
+
+  <line x1="88" y1="419" x2="712" y2="419" stroke="#DDD9CC"/>
+  <text x="88" y="444" font-family="'Helvetica Neue', Arial, sans-serif" font-size="7.5" letter-spacing="1.6" fill="#6B655B">PORTLAND, OREGON</text>
+  <text x="712" y="444" text-anchor="end" font-family="'Helvetica Neue', Arial, sans-serif" font-size="7.5" letter-spacing="1.6" fill="#6B655B">MOVE WELL / LIVE SLOWLY</text>
+</svg>
