@@ -1,21 +1,35 @@
 {
-  "name": "basic",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "jordan-ellis-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dynamic, responsive portfolio for Jordan Ellis, built with React, Vite, and Express.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "concurrently --kill-others-on-fail --names api,web --prefix-colors yellow,cyan \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "node --watch server/index.js",
+    "dev:web": "vite",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "preview": "vite preview",
+    "check": "vite build",
+    "smoke": "node scripts/smoke-test.mjs"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/servicingcentrecomputer-maker/Basic.git"
+  "engines": {
+    "node": ">=20.19"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/servicingcentrecomputer-maker/Basic/issues"
+  "dependencies": {
+    "compression": "^1.8.2",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "zod": "^4.6.7"
   },
-  "homepage": "https://github.com/servicingcentrecomputer-maker/Basic#readme"
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "concurrently": "^10.0.6",
+    "vite": "^8.3.5"
+  }
 }

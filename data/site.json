@@ -1,0 +1,88 @@
+{
+  "profile": {
+    "name": "Jordan Ellis",
+    "initials": "JE",
+    "role": "Independent web designer & developer",
+    "email": "hello@jordanellis.studio",
+    "phone": "+1-503-555-0148",
+    "phoneDisplay": "+1 (503) 555-0148",
+    "location": "Portland, Oregon",
+    "region": "OR",
+    "hours": "Monday–Friday, 9am–5pm PT",
+    "working": "Working worldwide",
+    "description": "Independent web design and development for small businesses, studios, and people with something good to share."
+  },
+  "availability": {
+    "available": true,
+    "booking": "Booking November 2026",
+    "footer": "Available for selected projects"
+  },
+  "stats": [
+    {
+      "id": "years",
+      "value": 12,
+      "suffix": " yrs",
+      "label": "Designing for the web"
+    },
+    {
+      "id": "businesses",
+      "value": 40,
+      "suffix": "+",
+      "label": "Small businesses launched"
+    },
+    {
+      "id": "templates",
+      "value": 0,
+      "suffix": "",
+      "label": "Templates. Every site hand-built."
+    }
+  ],
+  "clients": [
+    "Northwind Coffee",
+    "Solace Studio",
+    "Atlas & Co.",
+    "Fieldnote",
+    "Common Ground"
+  ],
+  "projects": [
+    {
+      "id": "northwind-coffee",
+      "title": "Northwind Coffee",
+      "tags": ["Brand site", "Wholesale"],
+      "image": "/assets/work-northwind.svg",
+      "alt": "Northwind Coffee website design shown in a browser frame, with a dark coffee bag and terracotta accents",
+      "layout": "wide",
+      "year": "2026",
+      "summary": "A warm, wholesale-ready brand site for a neighbourhood roaster.",
+      "url": ""
+    },
+    {
+      "id": "solace-studio",
+      "title": "Solace Studio",
+      "tags": ["Website design", "Booking"],
+      "image": "/assets/work-solace.svg",
+      "alt": "Solace Studio website design with a sage-green class schedule panel and editorial serif typography",
+      "layout": "narrow",
+      "year": "2025",
+      "summary": "A calm booking experience for a movement and wellbeing studio.",
+      "url": ""
+    },
+    {
+      "id": "atlas-and-co",
+      "title": "Atlas & Co.",
+      "tags": ["Strategy", "Website design"],
+      "image": "/assets/work-atlas.svg",
+      "alt": "Atlas and Co. website design with a navy portfolio chart panel and lime-green accents",
+      "layout": "inset",
+      "year": "2025",
+      "summary": "A clear, confident portfolio for a small advisory practice.",
+      "url": ""
+    }
+  ],
+  "testimonial": {
+    "quoteStart": "Jordan took a messy pile of ideas and turned it into a site we're ",
+    "quoteEmphasis": "genuinely proud",
+    "quoteEnd": " to send people to. It feels like us — only clearer.",
+    "source": "Maya Chen — Founder, Solace Studio"
+  }
+}
